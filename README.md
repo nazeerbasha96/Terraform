@@ -1,2 +1,2 @@
-provisioning the infrastructre using iac and scm tools ,
+provisioning the infrastructure using iac and scm tools ,
 end-end application deployment
