@@ -131,7 +131,7 @@ resource "null_resource" "config_file_copy" {
       "sudo apt install openjdk-11-jdk -y",
       "sudo apt install maven -y",
       "cd /tmp/",
-      "git clone https://github.com/nazeerbs/fithealth2.git",
+      "git clone https://github.com/nazeerbasha96/fithealth2.git",
     ]
   }
   provisioner "file" {
